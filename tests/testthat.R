@@ -1,3 +1,3 @@
 library(testthat)
-library(templater)
-test_check("templater")
+library(pelicanr)
+test_check("pelicanr")
